@@ -1,0 +1,4 @@
+// en caso de que no funcione el main.exe
+//usar los comandos
+ghc -o main main.hs
+.\main.exe
