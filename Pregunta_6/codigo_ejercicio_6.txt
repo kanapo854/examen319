@@ -1,0 +1,37 @@
+// For more information see https://aka.ms/fsharp-console-apps
+open System
+    
+let suma x y = x + y
+let resta x y =x - y
+let mult x y = x * y
+let div x y = x / y
+[<EntryPoint>]
+let main argv =
+    System.Console.WriteLine("Calculadora")
+    //let c = suma 6 7
+    //Console.WriteLine("la suma de 6 y 7 es: "+c.ToString())
+    System.Console.WriteLine("Introduzca dos números")
+    let num1 = Console.ReadLine()
+    let num2 = Console.ReadLine()
+    let val1 = Convert.ToInt32(num1)
+    let val2 = Convert.ToInt32(num2)
+    let op1 = suma val1 val2
+    let op2 = resta val1 val2
+    let op3 = mult val1 val2
+    let op4 = div val1 val2
+    //let resul = suma val1 val2
+    System.Console.WriteLine("Eliga una opcion")
+    System.Console.WriteLine("1. SUMA")
+    System.Console.WriteLine("2. RESTA")
+    System.Console.WriteLine("3. MULTIPLICACION")
+    System.Console.WriteLine("4. DIVISION")
+    let op = Console.ReadLine()
+    
+
+    if op ="1" then Console.WriteLine("la suma de los 2 números es: " + op1.ToString())
+    if op ="2" then Console.WriteLine("la resta de los 2 números es: " + op2.ToString())
+    if op ="3" then Console.WriteLine("la multiplicación de los 2 números es: " + op2.ToString())
+    if op ="4" then Console.WriteLine("la división de los 2 números es: " + op2.ToString())
+    let tecla = Console.ReadKey()
+
+    0//printfn "Hello from F#"

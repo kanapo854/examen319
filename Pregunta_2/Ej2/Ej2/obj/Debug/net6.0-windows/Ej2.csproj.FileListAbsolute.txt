@@ -1,0 +1,17 @@
+C:\Users\Kanapo\source\repos\Ej2\Ej2\bin\Debug\net6.0-windows\Ej2.exe
+C:\Users\Kanapo\source\repos\Ej2\Ej2\bin\Debug\net6.0-windows\Ej2.deps.json
+C:\Users\Kanapo\source\repos\Ej2\Ej2\bin\Debug\net6.0-windows\Ej2.runtimeconfig.json
+C:\Users\Kanapo\source\repos\Ej2\Ej2\bin\Debug\net6.0-windows\Ej2.dll
+C:\Users\Kanapo\source\repos\Ej2\Ej2\bin\Debug\net6.0-windows\Ej2.pdb
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.csproj.AssemblyReference.cache
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.Form1.resources
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.csproj.GenerateResource.cache
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.AssemblyInfoInputs.cache
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.AssemblyInfo.cs
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.dll
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\refint\Ej2.dll
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.pdb
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\Ej2.genruntimeconfig.cache
+C:\Users\Kanapo\source\repos\Ej2\Ej2\obj\Debug\net6.0-windows\ref\Ej2.dll
